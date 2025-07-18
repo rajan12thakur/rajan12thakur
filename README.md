@@ -29,9 +29,8 @@
 
 <!-- Snake contribution -->
 <!-- Snake Contribution Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake-dark.svg)
+
 
 
 ---
@@ -89,6 +88,17 @@
 </div>
 
 ---
+## 📊 GitHub Stats & Snake Graph
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajan12thakur&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan12thakur&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snake" />
+</p>
+
 
 ### 🔥 Streak Stats
 
