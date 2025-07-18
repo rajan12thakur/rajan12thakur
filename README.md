@@ -185,3 +185,17 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+
+## 🧑‍💼 Experience Timeline
+
+```txt
+📆 2023 - Present: Frontend Developer Intern @ XYZ Pvt Ltd
+🔧 Built reusable React components using Tailwind CSS
+🚀 Integrated APIs for live stock, social media, and video chat features
+
+📆 2022 - 2023: Contributor @ Open Source Projects
+🛠️ Worked on bug fixes, feature improvements in React-based projects
+
+📆 2021 - 2022: Student Developer
+🎓 Learned JavaScript, Java, DSA on platforms like LeetCode, GFG
