@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *"  # Every midnight
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+
+
 jobs:
   build:
     name: Generate Snake SVG
