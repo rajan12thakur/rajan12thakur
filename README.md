@@ -30,18 +30,13 @@
 <!-- Snake contribution -->
 <!-- Snake Contribution Animation -->
 ![Snake animation](https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake-dark.svg)
+### 🐍 My Contributions Graph
 
-## 🐍 Snake Contribution Animation
+![GitHub Snake Light](https://github.com/rajan12thakur/rajan12thakur/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/rajan12thakur/rajan12thakur/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  
-            srcset="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"  
-            srcset="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" />
-  </picture>
-</p>
+
+
 
 
 
