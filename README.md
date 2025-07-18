@@ -28,13 +28,9 @@
   <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snake" />
 </p>
 
-<h2 align="center">🐍 GitHub Snake Contribution Graph</h2>
 
-## 🐍 GitHub Contribution Snake Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark" />
-</p>
+
 
 
 
@@ -129,9 +125,7 @@
         <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan12thakur&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snake" />
-</p>
+
 
 
 
