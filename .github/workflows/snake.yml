@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+with:
+  color_snake: '#ff4500'
+  color_dots: '#00ff00,#006400,#8b0000'
 
 
 jobs:
