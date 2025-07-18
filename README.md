@@ -29,7 +29,7 @@
 
 <!-- Snake contribution -->
 <!-- Snake Contribution Animation -->
-![Snake animation](https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake-dark.svg)
+
 ### 🐍 My Contributions Graph
 
 ![GitHub Snake Light](https://github.com/rajan12thakur/rajan12thakur/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
