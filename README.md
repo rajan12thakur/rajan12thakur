@@ -17,6 +17,62 @@
 </div>
 
 <br />
+<h1 align="center">Hi 👋, I'm Rajan Thakur</h1>
+<h3 align="center">🚀 Edge AI | ML | Web Developer | Tech Explorer</h3>
+
+---
+
+### 🐍 Contribution Snake (Dark + Light Themes)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 🔧 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+
+---
+
+### 📊 GitHub Stats
+
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan12thakur&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan12thakur&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rajan12thakur&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 [🔍 Smart Kitchen Inventory](https://github.com/rajan12thakur/smart-kitchen)
+- 🔗 [💬 ChatBot UI (MCP)](https://github.com/rajan12thakur/chatbot-ui-mcp)
+- 🔗 [🌊 Edge AI Water Management](https://github.com/rajan12thakur/edge-ai-water)
+- 🔗 [🏠 Airbnb Clone](https://github.com/rajan12thakur/airbnb-clone)
+
+---
+
+### 📈 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rajan12thakur&style=flat-square&color=blue)
+
+---
+
+> _Crafted with ❤️ by Rajan Thakur_
+
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Rajan Kumar Thakur</h1>
