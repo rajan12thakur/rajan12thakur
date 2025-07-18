@@ -28,9 +28,11 @@
 </p>
 
 <!-- Snake contribution -->
+<!-- Snake Contribution Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
