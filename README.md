@@ -31,7 +31,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
   
 
 
