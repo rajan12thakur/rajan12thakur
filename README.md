@@ -25,10 +25,11 @@
 ## 📊 GitHub Contribution Snake Graph
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snakeannimation" />
+  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 
 </p>
-  ![Snake animation](https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg)
+
 
 <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg" alt="snake animation" />
   
