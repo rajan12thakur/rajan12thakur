@@ -3,7 +3,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 <!-- Heading -->
-<h1 align="center">Hi 👋, I'm Rajan Kumar Thakur</h1>
+<h1 align="center">Hi, I'm Rajan Kumar Thakur</h1>
 <h3 align="center">👨‍💻Full Stack Developer |🤖AI & Edge Computing Enthusiast | Open Source Contributor  from India</h3>
 
 <!-- Social Media Badges -->
