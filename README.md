@@ -25,7 +25,7 @@
 ## 📊 GitHub Contribution Snake Graph
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snakeannimation" />
 </p>
 
 
