@@ -4,7 +4,7 @@
 </div>
 <!-- Heading -->
 <h1 align="center">Hi, I'm Rajan Kumar Thakur</h1>
-<h3 align="center">👨‍💻Full Stack Developer |🤖AI & Edge Computing Enthusiast | Open Source Contributor  from India</h3>
+<h3 align="center">👨‍💻Full Stack Developer | Open Source Contributor  from India</h3>
 
 <!-- Social Media Badges -->
 <div align="center">
