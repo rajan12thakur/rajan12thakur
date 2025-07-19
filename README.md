@@ -161,64 +161,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=rajan12thakur&style=flat-square&color=blue)
 
 
-## 🧑‍💼 Experience Timeline
-
-```txt
-📆 2023 - Present: Frontend Developer Intern @ XYZ Pvt Ltd
-🔧 Built reusable React components using Tailwind CSS
-🚀 Integrated APIs for live stock, social media, and video chat features
-
-📆 2022 - 2023: Contributor @ Open Source Projects
-🛠️ Worked on bug fixes, feature improvements in React-based projects
-
-📆 2021 - 2022: Student Developer
-🎓 Learned JavaScript, Java, DSA on platforms like LeetCode, GFG
-
-### ⏳ Experience Timeline
-
-
-
-    title My Development Journey
-    2021 : Started Competitive Programming
-    2022 : Explored Machine Learning & Python
-    2023 : Edge AI + React Full Stack
-    2024 : Open Source Projects + LLM Integrations
-    2025 : Final Year Projects + AI Startups
-
-🧑‍🎓 **B.Tech in Computer Science**  
-📍 ABC Institute of Technology | 🗓️ 2021 – Present
-
-💻 **Open Source Contributor**  
-📍 GitHub & Dev Community | 🗓️ 2023 – Present  
-➤ Contributed to frontend, bug fixes, documentation
-
-🌟 **Frontend Developer Intern**  
-📍 XYZ StartUp | 🗓️ Jan 2024 – May 2024  
-➤ Worked on React-based UI, integrated APIs
-
-- 📚 BTech Student @ [Your University]
-- 💼 Intern - Edge AI System Design (Jan 2025 - Jun 2025)
-- 🌐 Built:
-    - Scira Chat: AI Tool-Based Chatbot
-    - EdgeMLBalancer: Self-Adaptive Inference System
-- 🧠 Research: Model Switching in Edge Devices
-
-### 📅 Timeline / Experience
-
-```yaml
-2023:
-  - 📚 Started exploring Edge AI & On-device Processing
-  - 💻 Built: Adaptive Water Management System (Edge AI)
-
-2024:
-  - 🌐 Created React + Vite + Tailwind portfolio
-  - 🤖 Built AI Chatbot using MCP + OpenAI
-  - 🚀 Learned Kubernetes, Spring Boot, and API Gateway Systems
-  - 🎓 Teaching CS/ML concepts via YouTube Channel: GATECSML
-
-2025:
-  - 🛠️ Working on model-switching system for Edge AI
-  - 🧠 Deep dive into Bitwise Ops, Servlets, JVM memory
 
 
 
