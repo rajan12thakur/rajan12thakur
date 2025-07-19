@@ -26,7 +26,10 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/snake.svg" alt="snakeannimation" />
+  ![Snake animation](https://raw.githubusercontent.com/rajan12thakur/rajan12thakur/output/github-contribution-grid-snake.svg)
+
 </p>
+
 
 
 
