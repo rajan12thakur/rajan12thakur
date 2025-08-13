@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🌱 Currently learning: **Spring Boot**, **Microservices**, and **Kubernetes**
-- 🛠 Building/woeking on: `Edge AI Adaptive Model Switcher`, `Stock Visualizer`, `Real-time ChatBot` **Edge AI Adaptive Systems & React Projects**
+- 🛠 Building/working on: `Edge AI Adaptive Model Switcher`, `Stock Visualizer`, `Real-time ChatBot` **Edge AI Adaptive Systems & React Projects**
 - 💬 Ask me about: **React**, **Node.js**, **Express**, **MongoDB**, **Java**, **AI projects**
 - 📫 Reach me at: [raajan12thakur@gmail.com](mailto:raajan12thakur@gmail.com)
 - 🧠 Fun Fact: I believe in “**Learning by Building**” and solving real-world problems.
