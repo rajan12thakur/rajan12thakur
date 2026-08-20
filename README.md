@@ -40,20 +40,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan12thakur&show_icons=true&theme=default" alt="rajan12thakur's GitHub stats" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rajan12thakur&show_icons=true&theme=default" alt="rajan12thakur's GitHub stats" height="165"/>
+  !-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan12thakur" alt="rajan12thakur's streak" height="165"/>
 </p>
 
----
 
-### 📌 Pinned Projects
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajan12thakur&repo=REPO_NAME_1" alt="Repo 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajan12thakur&repo=REPO_NAME_2" alt="Repo 2"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 
