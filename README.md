@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Python & Django DRF | React | Machine Learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=rajan12thakur&label=Profile%200views&color=0e75b6&style=flat" alt="rajan12thakur" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🔭 Currently working on **[ESG_SOFTWARE]**
 - 🌱 Currently learning **[LLMs, RAG pipelines]**
 - 💬 Ask me about **Python, Django, React, ML**
-- 📫 Reach me at **raajan12thakur@example.com**
+- 📫 Reach me at **raajan12thakur@gmail.com**
 
 
 ---
@@ -58,6 +58,6 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
-<a href="mailto:raajan12thakur@example.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="35" height="35"/></a>
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" height="35"/></a>
+<a href="mailto:raajan12thakur@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="35" height="35"/></a>
 </p>
