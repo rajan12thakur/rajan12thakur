@@ -83,50 +83,7 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/></a>
 </p>
 
----
 
-### 📌 Featured Projects
-
-#### 📊 Retail Data Engineering Pipeline
-
-**Python • SQL • PySpark • Apache Airflow • PostgreSQL • Parquet • Docker**
-
-End-to-end batch data pipeline covering:
-
-**Extract → Validate → Transform → Load → Data Quality**
-
-* Python-based data extraction and schema validation
-* PySpark transformations including cleaning, deduplication and joins
-* PostgreSQL analytical warehouse using a star schema
-* Apache Airflow DAG orchestration with retries and task-level logging
-* Parquet-based curated data output
-* Data-quality checks for nulls, duplicates and referential integrity
-* Docker Compose setup for PostgreSQL and Airflow
-
-#### 🌐 TARANG — AI-Powered WebGIS Decision Support System
-
-**React • FastAPI • YOLOv8 • U-Net • Gemini • RAG • LangChain • PostGIS**
-
-AI-powered WebGIS decision-support platform developed for the **Smart India Hackathon 2025**.
-
-* AI-based document digitization using OCR and NER
-* Satellite imagery analysis using YOLOv8 and U-Net
-* GeoJSON processing and PostGIS-backed geospatial storage
-* LLM + RAG based decision-support system
-* Role-based workflows and administrative dashboards
-
-🏆 **Smart India Hackathon 2025 Finalist**
-🥇 **Rank 1 — Internal Selection**
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan12thakur" alt="rajan12thakur's streak" height="165"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -137,7 +94,7 @@ AI-powered WebGIS decision-support platform developed for the **Smart India Hack
 <a href="mailto:raajan12thakur@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="35" height="35" alt="Email"/>
 </a>
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/rajan12thakur" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" alt="LeetCode"/>
 </a>
 </p>
