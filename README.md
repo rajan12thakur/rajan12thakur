@@ -57,11 +57,7 @@
 
 #### 🤖 AI / Machine Learning
 
-<p align="left">
-<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/></a>
-</p>
+
 
 **AI / ML:** Machine Learning • Deep Learning • NumPy • Pandas • Scikit-learn • Generative AI • LLMs • RAG • LangChain • AI Agents
 
