@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rajan Thakur 👋</h1>
-<h3 align="center">Software Engineer | Python & Django | React | Data Engineering | AI/ML</h3>
+<h3 align="center">Software Engineer | Python & Django | Data Engineering | AI/ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajan12thakur&label=Profile%20views&color=0e75b6&style=flat" alt="rajan12thakur" />
@@ -9,14 +9,47 @@
 
 ### 🚀 About Me
 
-* 💻 Working as a **Python Developer** building enterprise full-stack applications
-* 🔭 Currently working with **Python, Django, Django REST Framework, React, TypeScript & PostgreSQL**
-* 📊 Building hands-on experience in **Data Engineering, ETL/ELT, SQL, PySpark & Apache Airflow**
-* 🤖 Experienced in **Machine Learning, Deep Learning, Generative AI, LLMs, RAG & AI Agents**
+* 💻 Software Engineer working with **Python, Django, Django REST Framework, React, and PostgreSQL**
+* 🏢 Building enterprise software and data-driven applications at **Protegk IT**
+* 📊 Currently focusing on **Data Engineering, ETL/ELT, SQL, Data Pipelines, PySpark & Apache Airflow**
+* 🤖 Background in **AI/ML, Machine Learning, Deep Learning, Generative AI, LLMs, RAG & AI Agents**
+* 🧩 Interested in building systems where **software, databases, data processing, and AI** come together
 * 🏆 **Smart India Hackathon 2025 Finalist** — Rank 1 in Internal Selection
 * 🌱 Currently strengthening my skills in **Data Engineering and scalable backend systems**
-* 💬 Ask me about **Python, Django, REST APIs, React, SQL, Data Pipelines & AI/ML**
 * 📫 Reach me at **[raajan12thakur@gmail.com](mailto:raajan12thakur@gmail.com)**
+
+---
+
+### 💼 Experience
+
+#### 🏢 Protegk IT Solutions (I) Pvt. Ltd.
+**Python Developer Intern**  
+*May 2026 – Present | Pune, India*
+
+Working on enterprise software platforms across **ESG and EHS** domains.
+
+**ESG Software Platform**
+- Working with **Python, Django, Django REST Framework, PostgreSQL, React.js and Git/GitHub**.
+- Contributing to backend development, REST APIs, database models, workflow-driven modules and configurable data structures.
+- Working on features across **organization setup, RBAC, data mapping, materiality assessment and reporting-related workflows**.
+
+**EHS-360**
+- Worked on the development of the **Toolbox Talk** module covering topic management, session planning, attendance and action items.
+- Contributed across backend logic, database design, UI integration and testing.
+
+---
+
+#### 🏢 Posiview Digital Technology Pvt. Ltd.
+**AI/Data Engineer Intern**  
+*November 2025 – April 2026 | Pune, India*
+
+**Project: Intelligent Learning & Analytics Platform**
+
+- Worked on the development of an **LMS application** along with learning-related data and AI/ML features.
+- Worked with learning data including **data cleaning, preprocessing, transformation and analysis** for application and ML requirements.
+- Prepared datasets and worked on **machine-learning model training and evaluation**.
+- Worked on integrating **AI/ML capabilities and model outputs** into the application for learning-related features.
+- Gained hands-on experience across **software development, data processing, data analysis and AI/ML workflows** within the same platform.
 
 ---
 
@@ -53,13 +86,13 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
 </p>
 
-**Data Engineering:** SQL • ETL/ELT • Data Pipelines • Data Modeling • PySpark • Apache Airflow • PostgreSQL • Parquet • Data Quality
+**Data Engineering:**  
+SQL • ETL/ELT • Data Pipelines • Data Modeling • PySpark • Apache Airflow • PostgreSQL • Data Quality
 
 #### 🤖 AI / Machine Learning
 
-
-
-**AI / ML:** Machine Learning • Deep Learning • NumPy • Pandas • Scikit-learn • Generative AI • LLMs • RAG • LangChain • AI Agents
+**AI / ML:**  
+Machine Learning • Deep Learning • NumPy • Pandas • Scikit-learn • Generative AI • LLMs • RAG • LangChain • AI Agents
 
 #### 🗄️ Databases & Platforms
 
@@ -81,15 +114,39 @@
 
 
 
+
+### 🏆 Achievements & Certifications
+
+- 🏆 **Smart India Hackathon 2025 Finalist** — Rank 1 in Internal Selection
+- 💻 **500+ DSA problems on LeetCode**
+- 💻 **200+ problems on GeeksforGeeks** — Rank 1, College
+- 🤖 **Google AI/ML Certification (AICTE)**
+- 🧠 **NVIDIA Deep Learning Certification**
+
+---
+
+### 🎓 Education
+
+**B.E. Computer Science — Artificial Intelligence & Data Science**  
+Ajeenkya D Y Patil School of Engineering, Pune  
+**Graduated: May 2026 CGPA: 7.9/10**
+
+Relevant Coursework:  
+Machine Learning • Deep Learning • Neural Networks • AI • DBMS • Data Modeling & Visualization • Cloud & Distributed Computing
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/rajan12thakur/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:raajan12thakur@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="35" height="35" alt="Email"/>
 </a>
+
 <a href="https://leetcode.com/rajan12thakur" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" alt="LeetCode"/>
 </a>
