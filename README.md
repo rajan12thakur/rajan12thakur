@@ -31,7 +31,7 @@ Working on enterprise software platforms across **ESG and EHS** domains.
 **ESG Software Platform**
 - Working with **Python, Django, Django REST Framework, PostgreSQL, React.js and Git/GitHub**.
 - Contributing to backend development, REST APIs, database models, workflow-driven modules and configurable data structures.
-- Working on features across **organization setup, RBAC, data mapping, materiality assessment and reporting-related workflows**.
+- Working on features across **organization setup, RBAC, data mapping, framework mapping, materiality assessment and reporting-related workflows**.
 
 **EHS-360**
 - Worked on the development of the **Toolbox Talk** module covering topic management, session planning, attendance and action items.
