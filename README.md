@@ -23,7 +23,7 @@
 ### 💼 Experience
 
 #### 🏢 Protegk IT Solutions (I) Pvt. Ltd.
-**Python Developer **  
+**Python Developer**  
 *May 2026 – Present | Pune, India*
 
 Working on enterprise software platforms across **ESG and EHS** domains.
