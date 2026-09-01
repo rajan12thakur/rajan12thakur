@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rajan Thakur 👋</h1>
-<h3 align="center">Software Engineer | Python & Django | Data Engineering | AI/ML</h3>
+<h3 align="center">Software Engineer | AI Data Engineering </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajan12thakur&label=Profile%20views&color=0e75b6&style=flat" alt="rajan12thakur" />
