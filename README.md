@@ -11,8 +11,8 @@
 
 * 💻 Software Engineer working with **Python, Django, Django REST Framework, React, and PostgreSQL**
 * 🏢 Building enterprise software and data-driven applications at **Protegk IT**
-* 📊 Currently focusing on **Data Engineering, ETL/ELT, SQL, Data Pipelines, PySpark & Apache Airflow**
-* 🤖 Background in **AI/ML, Machine Learning, Deep Learning, Generative AI, LLMs, RAG & AI Agents**
+* 📊 Currently focusing on **Data Engineering, ETL/ELT, SQL, Data Pipelines**
+* 🤖 Background in **AI/ML, Machine Learning, Deep Learning, Generative AI, LLMs, RAG**
 * 🧩 Interested in building systems where **software, databases, data processing, and AI** come together
 * 🏆 **Smart India Hackathon 2025 Finalist** — Rank 1 in Internal Selection
 * 🌱 Currently strengthening my skills in **Data Engineering and scalable backend systems**
@@ -81,19 +81,16 @@ Working on enterprise software platforms across **ESG and EHS** domains.
 
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>
-<a href="https://spark.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark"/></a>
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Apache Airflow"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
+
 </p>
 
 **Data Engineering:**  
-SQL • ETL/ELT • Data Pipelines • Data Modeling • PySpark • Apache Airflow • PostgreSQL • Data Quality
+SQL • ETL/ELT • Data Pipelines • Data Modeling 
 
 #### 🤖 AI / Machine Learning
 
 **AI / ML:**  
-Machine Learning • Deep Learning • NumPy • Pandas • Scikit-learn • Generative AI • LLMs • RAG • LangChain • AI Agents
-
+Machine Learning • Deep Learning • NumPy • Pandas • Scikit-learn • Generative AI • LLMs • RAG • LangChain 
 #### 🗄️ Databases & Platforms
 
 <p align="left">
