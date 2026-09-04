@@ -18,40 +18,30 @@
 * 🌱 Currently strengthening my skills in **Data Engineering and scalable backend systems**
 * 📫 Reach me at **[raajan12thakur@gmail.com](mailto:raajan12thakur@gmail.com)**
 
----
-
 ### 💼 Experience
 
-#### 🏢 Protegk IT Solutions (I) Pvt. Ltd.
-**Python Developer**  
-*May 2026 – Present | Pune, India*
+```text
+┌──────────────────────────────────────────────┐
+│ 🤖 POSIVIEW DIGITAL TECHNOLOGY PVT. LTD.    |
+│                                              │
+│ AI / Data Engineer Intern                    │
+│ Nov 2025 – Apr 2026                          │
+└──────────────────────────────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│ 💻 PROTEGK IT SOLUTIONS                     │
+│                                              │
+│ Python Developer                             │
+│ May 2026 – Aug 2026                          │
+│                                              │
+│  ↓  ↓  ↓   ↓                                 │
+│                                              │
+│ Junior Software Developer                    │
+│ Aug 2026 – Present                           │
+└──────────────────────────────────────────────┘
+```
 
-Working on enterprise software platforms across **ESG and EHS** domains.
-
-**ESG Software Platform**
-- Working with **Python, Django, Django REST Framework, PostgreSQL, React.js and Git/GitHub**.
-- Contributing to backend development, REST APIs, database models, workflow-driven modules and configurable data structures.
-- Working on features across **organization setup, RBAC, data mapping, framework mapping, materiality assessment and reporting-related workflows**.
-
-**EHS-360**
-- Worked on the development of the **Toolbox Talk** module covering topic management, session planning, attendance and action items.
-- Contributed across backend logic, database design, UI integration and testing.
-
----
-
-#### 🏢 Posiview Digital Technology Pvt. Ltd.
-**AI/Data Engineer Intern**  
-*November 2025 – April 2026 | Pune, India*
-
-**Project: Intelligent Learning & Analytics Platform**
-
-- Worked on the development of an **LMS application** along with learning-related data and AI/ML features.
-- Worked with learning data including **data cleaning, preprocessing, transformation and analysis** for application and ML requirements.
-- Prepared datasets and worked on **machine-learning model training and evaluation**.
-- Worked on integrating **AI/ML capabilities and model outputs** into the application for learning-related features.
-- Gained hands-on experience across **software development, data processing, data analysis and AI/ML workflows** within the same platform.
-
----
 
 ### 🛠️ Languages and Tools
 
