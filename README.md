@@ -24,26 +24,6 @@ Data Engineer | Python | SQL | Data Pipelines
 
 ---
 
-## 💼 Experience
-
-### 🤖 AI Data Engineer Intern
-**Posiview Digital Technology Pvt. Ltd. | Nov 2025 – Apr 2026**
-
-- Worked on data-processing workflows for real-world learning-platform datasets
-- Transformed raw student, course, assessment, activity, and document data into structured datasets
-- Performed data cleaning, normalization, duplicate handling, validation, and preprocessing
-- Worked with Python, SQL, PostgreSQL, ETL/data processing, OCR, and feature engineering
-- Supported downstream analytics and machine-learning workflows
-
-### 🐍 Python Developer
-**Protegk IT Solutions | May 2026 – Aug 2026**
-
-- Worked on enterprise SaaS platforms and database-driven applications
-- Designed backend workflows and data models using Python and PostgreSQL
-- Built data-focused application modules with emphasis on data integrity and validation
-- Worked with scalable queries, REST APIs, and cross-module data workflows
-
----
 
 ## 📊 Data Engineering Skills
 
