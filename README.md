@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rajan Thakur</h1>
-<h3 align="center"> Data Engineer | Python Developer </h3>
+<h3 align="center"> Python Developer | Data Engineer </h3>
 
 ### 📊 GitHub Stats
 
