@@ -10,6 +10,9 @@
 ### 📌 Featured Projects
 
 - **[Data Warehouse ETL Pipeline](https://github.com/rajan12thakur/Data-Warehouse-ETL-Pipeline)** — End-to-end ETL pipeline on MySQL with Bronze–Silver–Gold medallion architecture, star schema, and SQL-based data quality checks.
+- **[ESG 360](https://github.com/Protegk-IT/ESG_360)** — ESG reporting platform supporting sustainability frameworks including GRI, BRSR, SASB, ISSB, and GHG Protocol, with Django, React, PostgreSQL, and configurable reporting workflows.
+
+- **[EHS-Protegk](https://github.com/rohanlute/EHS-Protegk)** — EHS management platform built with Python and Django, covering safety meetings, training management, onboarding workflows, dashboards, and safety-related operations.
 
 - **[Retail Customer Behavior Analytics](https://github.com/rajan12thakur/retail-customer-behavior-analytics)** — Retail analytics pipeline: data cleaning, feature engineering, PostgreSQL storage, SQL analysis, and Power BI reporting.
 
