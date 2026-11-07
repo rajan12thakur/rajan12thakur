@@ -1,30 +1,84 @@
 # Hi, I'm Rajan Thakur 👋
 
 <p align="center">
-  <strong>Python Developer | Applied AI & Generative AI</strong>
+  <strong>Software Engineer | Python Backend | Applied AI & Generative AI</strong>
 </p>
 
 <p align="center">
-  Building intelligent applications using Python, Machine Learning, LLMs, and AI-powered systems.
+  Building backend systems and intelligent applications by combining software engineering, Python, and Generative AI.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm an Artificial Intelligence & Data Science graduate with professional experience in Python development, backend engineering, and AI/ML-based applications.
+I'm a Software Engineer with experience in Python development, backend engineering, and AI/ML-enabled application development.
 
-I've contributed to enterprise software platforms and AI-powered solutions, working across backend development, data processing, document intelligence, and intelligent workflows.
+My work involves developing backend functionality, REST APIs, database models, data-processing workflows, and intelligent application features. I've contributed to enterprise software platforms and AI-powered solutions involving document intelligence, OCR, NLP, geospatial technologies, and Retrieval-Augmented Generation (RAG).
 
-I'm currently focused on Applied AI Engineering, particularly LLM-powered applications, RAG systems, MCP, AI agents, and production-oriented AI architectures.
+During my AI Data Engineer internship at **Posiview Digital Technologies**, I contributed to an Intelligent Learning & Analytics Platform, working on learning-data processing, OCR-based workflows, feature engineering, machine-learning workflows, and recommendation-related application features.
 
-**Areas of Interest**
-- Generative AI and Large Language Models
+I also contributed to **TARANG**, an AI-powered WebGIS Decision Support System developed for Smart India Hackathon 2025, involving OCR, BERT-based Named Entity Recognition (NER), and RAG.
+
+Alongside my AI/ML experience, I have worked with Django, Django REST Framework, PostgreSQL, and REST APIs to develop backend modules for enterprise applications.
+
+**My current direction is Applied AI Engineering**, with a focus on understanding Foundation Models and building practical AI applications using LLMs, RAG architectures, AI agents, and enterprise integrations.
+
+---
+
+### 🧭 Technical Focus & Learning Direction
+
+My learning and engineering interests follow a progression from software engineering fundamentals to building and understanding AI systems.
+
+**01. Software Engineering & Backend Development**
+- Python and Object-Oriented Programming
+- Data Structures and Algorithms
+- Django and Django REST Framework
+- REST API Development
+- SQL and PostgreSQL
+- Database Design and Data Modeling
+- Git, GitHub and Docker
+
+**02. AI, NLP & LLM Fundamentals**
+- Machine Learning and Deep Learning
+- Natural Language Processing (NLP)
+- Neural Networks and Transformers
+- Tokenization and Embeddings
+- Large Language Models (LLMs)
+- Prompt Engineering and LLM APIs
+
+**03. LLM Application Engineering**
+- LangChain
+- Document Loaders and Text Splitters
+- Embedding Models
+- Vector Databases
+- Semantic Search and Retrieval
 - Retrieval-Augmented Generation (RAG)
+- Hybrid Search and Reranking
+
+**04. Agentic AI & System Integration**
+- AI Agents and Agentic Workflows
+- Tool Calling and Function Calling
+- LangGraph
 - Model Context Protocol (MCP)
-- Agentic AI and tool orchestration
-- Machine Learning and Natural Language Processing
-- AI system design and production engineering
+- Multi-Agent Systems
+- Human-in-the-Loop Workflows
+
+**05. Production AI Engineering**
+- AI System Design
+- LLM Evaluation and Observability
+- Guardrails and AI Security
+- API and Enterprise System Integration
+- CI/CD and Deployment
+- Monitoring and Performance Optimization
+- LLMOps
+
+**06. Model Engineering & Optimization**
+- PyTorch
+- Generative Model Architectures
+- Model Training and Fine-tuning
+- LoRA and QLoRA
+- Quantization and Model Optimization
 
 ---
 
@@ -32,15 +86,19 @@ I'm currently focused on Applied AI Engineering, particularly LLM-powered applic
 
 **Languages:** Python, SQL, JavaScript
 
-**Backend:** Django, Django REST Framework, REST APIs
-
-**AI / ML:** Machine Learning, Deep Learning, NLP, OCR, Generative AI
-
-**Data Engineering:** ETL/ELT, Data Processing, Data Modeling, Data Quality
+**Backend Engineering:** Django, Django REST Framework, REST APIs
 
 **Databases:** PostgreSQL, MySQL, PostGIS
 
-**Tools:** Pandas, NumPy, Git, GitHub, Docker, Power BI
+**AI / ML:** Machine Learning, Deep Learning, NLP, OCR, Transformers
+
+**Generative AI:** LLM APIs, Prompt Engineering, Embeddings, RAG, AI Agents
+
+**AI Frameworks & Integrations:** LangChain, LangGraph, MCP
+
+**Data Engineering:** ETL/ELT, Data Processing, Data Modeling, Data Quality
+
+**Python Libraries & Tools:** Pandas, NumPy, Git, GitHub, Docker, Power BI
 
 ---
 
@@ -54,8 +112,9 @@ I'm currently focused on Applied AI Engineering, particularly LLM-powered applic
 
 An AI-powered platform designed to support Forest Rights Act governance workflows through document intelligence and geospatial technologies.
 
+**Key Contributions**
 - OCR-based structured information extraction.
-- NLP-based entity extraction.
+- NLP-based Named Entity Recognition.
 - RAG-based decision-support workflow.
 - Geospatial data management and visualization.
 
@@ -67,6 +126,7 @@ An AI-powered platform designed to support Forest Rights Act governance workflow
 
 An enterprise ESG reporting platform supporting sustainability reporting frameworks and configurable reporting workflows.
 
+**Key Areas**
 - GRI, BRSR, SASB, ISSB, and GHG Protocol support.
 - Backend development and REST API integration.
 - Configurable framework and reporting structures.
@@ -80,6 +140,7 @@ An enterprise ESG reporting platform supporting sustainability reporting framewo
 
 An enterprise EHS management platform designed to manage workplace safety and operational compliance workflows.
 
+**Key Areas**
 - Toolbox Talk and safety meeting workflows.
 - Training and onboarding management.
 - Attendance and follow-up action tracking.
@@ -93,11 +154,11 @@ An enterprise EHS management platform designed to manage workplace safety and op
 
 #### 4. FinPilot AI – Agentic Banking Intelligence Platform
 
-🚧 ****
+🚧 **Currently in Development**
 
-An intelligent banking assistant combining Retrieval-Augmented Generation, Model Context Protocol, and agentic workflows to answer financial questions and interact with simulated banking services.
+An intelligent banking assistant designed to combine Retrieval-Augmented Generation, Model Context Protocol, and agentic workflows to answer financial questions and interact with simulated banking services.
 
-**Key Capabilities**
+**Planned Capabilities**
 - Document intelligence using RAG.
 - Context-grounded answers with source citations.
 - MCP server and client integration.
@@ -111,7 +172,7 @@ An intelligent banking assistant combining Retrieval-Augmented Generation, Model
 
 ---
 
-
+### 📊 Data Engineering Projects
 
 #### 5. Data Warehouse ETL Pipeline
 
@@ -119,6 +180,7 @@ An intelligent banking assistant combining Retrieval-Augmented Generation, Model
 
 An end-to-end data warehouse pipeline designed to transform raw business data into structured, analytics-ready datasets.
 
+**Key Features**
 - ETL workflows using Python and SQL.
 - Bronze, Silver, and Gold medallion architecture.
 - Data cleaning and transformation.
@@ -129,7 +191,7 @@ An end-to-end data warehouse pipeline designed to transform raw business data in
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajan12thakur&show_icons=true&theme=github_dark&hide_border=true" />
